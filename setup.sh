@@ -1,4 +1,4 @@
-pkg install curl && curl -sL -H "Cache-Control: no-cache" <<'EOF' | bash
+curl -sL -H "Cache-Control: no-cache" <<'EOF' | bash
 #!/data/data/com.termux/files/usr/bin/bash
 
 # Màu sắc cho giao diện
