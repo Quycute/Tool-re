@@ -7,9 +7,6 @@ YELLOW='\e[33m'
 CYAN='\e[36m'
 RESET='\e[0m'
 
-# URL của file quybeltool.py
-PYTHON_URL="https://raw.githubusercontent.com/Quycute/Tool-re/refs/heads/main/quybeltool.py"
-
 # Hiển thị tiêu đề
 clear
 echo -e "${CYAN}╔════════════════════════════════════╗${RESET}"
