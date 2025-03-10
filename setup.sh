@@ -7,7 +7,6 @@ pkg install python
 pip install requests aiohttp psutil colorama
 
 # Tải quybeltool.py
-curl -L -o quybeltool.py "https://raw.githubusercontent.com/Quycute/Tool-re/refs/heads/main/quybeltool.py"
-
+wget -O /storage/emulated/0/Download/quybeltool.py "https://raw.githubusercontent.com/Quycute/Tool-re/refs/heads/main/quybeltool.py"
 echo "Cài đặt hoàn tất! Chạy tool bằng: python quybeltool.py"
 EOF
